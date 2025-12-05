@@ -44,3 +44,9 @@ label {
     text-align: center;
     font-size: 3rem;
 }
+
+.division {
+    width: 300px;
+    margin: auto;
+    margin-top: 50px;
+}
